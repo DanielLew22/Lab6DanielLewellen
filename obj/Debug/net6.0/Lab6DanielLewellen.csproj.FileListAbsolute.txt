@@ -1,0 +1,15 @@
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\bin\Debug\net6.0\Lab6DanielLewellen.exe
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\bin\Debug\net6.0\Lab6DanielLewellen.deps.json
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\bin\Debug\net6.0\Lab6DanielLewellen.runtimeconfig.json
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\bin\Debug\net6.0\Lab6DanielLewellen.dll
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\bin\Debug\net6.0\Lab6DanielLewellen.pdb
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.csproj.AssemblyReference.cache
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.AssemblyInfoInputs.cache
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.AssemblyInfo.cs
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.csproj.CoreCompileInputs.cache
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.dll
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\refint\Lab6DanielLewellen.dll
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.pdb
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\Lab6DanielLewellen.genruntimeconfig.cache
+C:\Users\cardi\Documents\Labsorcs\Lab6\Lab6DanielLewellen\obj\Debug\net6.0\ref\Lab6DanielLewellen.dll
